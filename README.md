@@ -1,1 +1,12 @@
-# simmerling_stonybrook_public
+Public repo for computational chemistry research conducted under Professor Carlos Simmerling at StonyBrook
+<br>
+<br> Abstract In the Proceedings of Spring 2022 Conference of American Chemical Society [[Poster]](https://github.com/asviswesh/simmerling_stonybrook_public/blob/9f0d05145cbd5cc5cd85ac403f7ef35aafe3fae0/AnnikaViswesh_Simons_Research_SpikeProtein_Poster_2021.pdf)
+
+
+---
+
+<h3 align="center">Abstract</h3>
+<h3 align="center">Investigating the inhibition of the conformational transition of SARS-CoV-2 spike protein using small molecules</h3>
+The exterior of the spike protein of SARS-CoV-2 has been the target for vaccines. However, the sequence of the protein’s exterior is not highly conserved across all coronaviruses, and given the rapid rate of mutation of SARS-CoV-2, antibodies cannot recognize the virus promptly. On the other hand, the sequence of the interior of the SARS-CoV-2 spike protein is more highly conserved. Therefore, creating drugs to target the interior of the spike protein could be less prone to develop resistance. In particular, the pockets that are open at the top of the CH trimer region on the S2 subunit of the SARS-CoV-2 spike protein in the pre-fusion state, which allows access to the protein's interior, become closed when the virus fuses to the host membrane. The objective of this project is to determine if small molecules can bind to the pockets at the top of the CH trimer region of the S2 subunit of the spike protein that are open in the pre-fusion state, and prevent them from closing. This will prevent the spike from switching to the post-fusion state. Simulations performed using DOCK software to find pockets at the top of the CH trimer region in the pre-fusion state showed two pockets. Subsequently, 1000 small molecules from the ZINC database were docked to these pockets using DOCK software. Three docked molecules were shortlisted based on how well they fit in the pocket and their electrostatic forces of attraction to the pocket. These molecules may be able to prevent the transition from the pre-fusion to the post-fusion states in the S2 subunit of the spike protein and block infection of the host cell by the virus.
+
+---
