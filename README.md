@@ -1,6 +1,6 @@
 Public repo for computational chemistry research conducted under Professor Carlos Simmerling at StonyBrook
 <br>
-<br> Abstract In the Proceedings of Spring 2022 Conference of American Chemical Society [[Link]](https://github.com/asviswesh/simmerling_stonybrook_public/blob/9f0d05145cbd5cc5cd85ac403f7ef35aafe3fae0/AnnikaViswesh_Simons_Research_SpikeProtein_Poster_2021.pdf)
+<br> Abstract In the Proceedings of Spring 2022 Conference of American Chemical Society [[Poster]](https://github.com/asviswesh/simmerling_stonybrook_public/blob/9f0d05145cbd5cc5cd85ac403f7ef35aafe3fae0/AnnikaViswesh_Simons_Research_SpikeProtein_Poster_2021.pdf)
 
 
 ---
