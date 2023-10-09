@@ -1,4 +1,4 @@
-Public repo for computational chemistry research conducted under Professor Carlos Simmerling at StonyBrook
+Created custom Python programs and utilized bioinformatics tools, including VMD and DOCK, to research the potential of small molecules to bind to open pockets on the SARS-CoV-2 spike protein, aiming to hinder the transition to the post-fusion state and block viral infection, leading to the identification of three promising drug candidates.
 <br>
 <br> Abstract In the Proceedings of Spring 2022 Conference of American Chemical Society [[Poster]](https://github.com/asviswesh/simmerling_stonybrook_public/blob/9f0d05145cbd5cc5cd85ac403f7ef35aafe3fae0/AnnikaViswesh_Simons_Research_SpikeProtein_Poster_2021.pdf)
 
